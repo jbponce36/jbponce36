@@ -1,12 +1,12 @@
 ### 👋 Hi there!
 
-I live in Buenos Aires, Argentina. I like videogames, nature photography and coding.
+I live in Buenos Aires, Argentina. I like reading, videogames, nature photography and coding.
 
 ### 📫 Get in touch
 <a href="mailto:jbponce36@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/julieta-belen-ponce/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-### 👩‍💻 What I work with
+### 👩‍💻 What I use
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> 
