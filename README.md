@@ -16,6 +16,7 @@ I live in Buenos Aires, Argentina. I like reading, videogames, nature photograph
 <a href="https://jbponce.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"></a>
 
 ### 📌 My favorite project repos
+* [Pingui](https://github.com/jbponce36/Pingui) - 3D endless runner platformer game.
 * [Space50](https://github.com/jbponce36/Space50) - Space Invaders like game.
 * [SonicTp](https://github.com/jbponce36/SonicTp) - Multiplayer Sonic like game.
 * [Algocraft](https://github.com/algo3grupo/algo3Tp) - Turned-based Starcraft like game.
